@@ -1,0 +1,124 @@
+.wrapper {
+  min-width: 900px;
+  min-height: 300px;
+  max-width: 1000px;
+  max-height: 400px;
+  margin: 10%;
+  height: 50%;
+  border: 1px solid black;
+  border-radius: 10px;
+  background: linear-gradient(to bottom, #383838 20%, #faf4eb 10%);
+  box-shadow: 1px 1px 3px 2px #808080;
+ 
+}
+
+.frame{
+  border: solid 1px #000000;
+  background: #FFFFFF;
+  margin-left: 1%;
+  margin-top: 3%;
+  border-radius: 10px;
+  width: 98%;
+}
+
+.box_header {
+  margin-left: 3%;
+  margin-top: 1%;
+  color: #FFFFFF;
+  font-family: 'Arial', serif;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.text {
+  width: 11%;
+  margin-left: 14%;
+  margin-top: 6%;
+  color: #545454;
+  font-family: 'Arial', serif;
+  font-weight: bold;
+  font-size: 1.5em;
+  float: left;
+  display: inline-block;
+}
+
+.progress {
+  border: solid 0.5em #F2EEEE;
+  width: 35%;
+  margin-left: 4.8%;
+  margin-top: 6%;
+  float: left;
+  display: inline-block;
+}
+
+.progress-bar {
+  width: 93%;
+  color: #F2EEEE;
+}
+
+.innerframe {
+  background: linear-gradient(to top, #535353, #9e9e9e);
+  width: 10%;
+  heiht: 20%;
+  margin-right: 25%;
+  margin-top: 3%;
+  margin-bottom: 3%;
+  float: right;
+  display: inline-block;
+  border-radius: 4px;
+  border: groove 3px #9e9e9e;
+}
+
+.innerframe1 {
+  width: 90%;
+  margin-left: 4%;
+  border-top: groove 3px #a6a6a6;
+}
+
+.innertext1 {
+  color: #FFFFFF;
+  font-family: 'Arial', serif;
+  font-size: 1.4em;
+  text-align: center;
+}
+
+.innertext2 {
+  color: #FFFFFF;
+  font-family: 'Arial', serif;
+  font-weight: bold;
+  font-size: 2em;
+  text-align: center;
+}
+
+.bi {
+  margin-left: 20%;
+  margin-top: 1.9%;
+  float: left;
+  display: inline-block;
+}
+
+.textbottom {
+  margin-top: 2%;
+  margin-right: 22%;
+  color: #545454;
+  font-family: 'Arial', serif;
+  font-size: 1.5em;
+  display: inline-block;
+}
+
+
+.si {
+  margin-right: 2.4%;
+  float: right;
+  color: #545454;
+}
+
+.indicator {
+  margin-left: 59%;
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #545454;
+} 
+
+
+ 
